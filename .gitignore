@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+*.bin
+*.pt
+logs/
+checkpoints/
