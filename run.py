@@ -319,7 +319,7 @@ class NeuroSystem:
         
         # Save emergency state
         with open("emergency_state.enc", "wb") as f:
-            f.write(encrypt_data(pickle.dumps(dict(self.state)), self.fernet_key)
+            f.write(encrypt_data(pickle.dumps(dict(self.state)), self.fernet_key))
         
         sys.exit(1)
 
