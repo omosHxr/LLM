@@ -1,0 +1,120 @@
+Epoch 1, Loss 3.7888, Time 2.95s
+Epoch 2, Loss 3.3004, Time 9.02s
+Epoch 3, Loss 3.0509, Time 20.22s
+Epoch 4, Loss 2.8995, Time 26.18s
+Epoch 5, Loss 2.7887, Time 28.73s
+Epoch 6, Loss 2.6974, Time 40.64s
+Epoch 7, Loss 2.6076, Time 44.71s
+Epoch 8, Loss 2.4704, Time 46.72s
+Epoch 9, Loss 2.3793, Time 48.47s
+Epoch 10, Loss 2.2797, Time 50.42s
+Epoch 11, Loss 2.1895, Time 52.31s
+Epoch 12, Loss 2.1367, Time 54.15s
+Epoch 13, Loss 2.0561, Time 55.87s
+Epoch 14, Loss 1.9865, Time 57.53s
+Epoch 15, Loss 1.9474, Time 59.15s
+Epoch 16, Loss 1.8985, Time 61.00s
+Epoch 17, Loss 1.8797, Time 62.74s
+Epoch 18, Loss 1.8111, Time 64.35s
+Epoch 19, Loss 1.7684, Time 66.09s
+Epoch 20, Loss 1.7501, Time 67.83s
+Epoch 21, Loss 1.7330, Time 70.48s
+Epoch 22, Loss 1.7053, Time 72.65s
+Epoch 23, Loss 1.6918, Time 74.97s
+Epoch 24, Loss 1.6594, Time 77.08s
+Epoch 25, Loss 1.6560, Time 79.41s
+Epoch 26, Loss 1.6392, Time 81.49s
+Epoch 27, Loss 1.6245, Time 83.42s
+Epoch 28, Loss 1.6024, Time 86.14s
+Epoch 29, Loss 1.5764, Time 87.87s
+Epoch 30, Loss 1.5934, Time 89.67s
+Epoch 1, Loss 0.0000, Time 0.00s, Speed 0.00 tok/s
+Epoch 2, Loss 0.0000, Time 0.01s, Speed 0.00 tok/s
+Epoch 3, Loss 0.0000, Time 0.01s, Speed 0.00 tok/s
+Epoch 4, Loss 0.0000, Time 0.01s, Speed 0.00 tok/s
+Epoch 5, Loss 0.0000, Time 0.01s, Speed 0.00 tok/s
+Epoch 6, Loss 0.0000, Time 0.13s, Speed 0.00 tok/s
+Epoch 7, Loss 0.0000, Time 0.13s, Speed 0.00 tok/s
+Epoch 8, Loss 0.0000, Time 0.13s, Speed 0.00 tok/s
+Epoch 9, Loss 0.0000, Time 0.13s, Speed 0.00 tok/s
+Epoch 10, Loss 0.0000, Time 0.13s, Speed 0.00 tok/s
+Epoch 11, Loss 0.0000, Time 0.26s, Speed 0.00 tok/s
+Epoch 12, Loss 0.0000, Time 0.26s, Speed 0.00 tok/s
+Epoch 13, Loss 0.0000, Time 0.26s, Speed 0.00 tok/s
+Epoch 14, Loss 0.0000, Time 0.26s, Speed 0.00 tok/s
+Epoch 15, Loss 0.0000, Time 0.26s, Speed 0.00 tok/s
+Epoch 16, Loss 0.0000, Time 0.39s, Speed 0.00 tok/s
+Epoch 17, Loss 0.0000, Time 0.39s, Speed 0.00 tok/s
+Epoch 18, Loss 0.0000, Time 0.39s, Speed 0.00 tok/s
+Epoch 19, Loss 0.0000, Time 0.39s, Speed 0.00 tok/s
+Epoch 20, Loss 0.0000, Time 0.39s, Speed 0.00 tok/s
+Epoch 21, Loss 0.0000, Time 0.52s, Speed 0.00 tok/s
+Epoch 22, Loss 0.0000, Time 0.52s, Speed 0.00 tok/s
+Epoch 23, Loss 0.0000, Time 0.52s, Speed 0.00 tok/s
+Epoch 24, Loss 0.0000, Time 0.52s, Speed 0.00 tok/s
+Epoch 25, Loss 0.0000, Time 0.52s, Speed 0.00 tok/s
+Epoch 26, Loss 0.0000, Time 0.65s, Speed 0.00 tok/s
+Epoch 27, Loss 0.0000, Time 0.65s, Speed 0.00 tok/s
+Epoch 28, Loss 0.0000, Time 0.65s, Speed 0.00 tok/s
+Epoch 29, Loss 0.0000, Time 0.65s, Speed 0.00 tok/s
+Epoch 30, Loss 0.0000, Time 0.66s, Speed 0.00 tok/s
+Epoch 1, Loss 0.0000, Time 0.18s, Speed 0.00 tok/s
+Epoch 2, Loss 0.0000, Time 0.18s, Speed 0.00 tok/s
+Epoch 3, Loss 0.0000, Time 0.18s, Speed 0.00 tok/s
+Epoch 4, Loss 0.0000, Time 0.19s, Speed 0.00 tok/s
+Epoch 5, Loss 0.0000, Time 0.19s, Speed 0.00 tok/s
+Epoch 6, Loss 0.0000, Time 0.40s, Speed 0.00 tok/s
+Epoch 7, Loss 0.0000, Time 0.40s, Speed 0.00 tok/s
+Epoch 8, Loss 0.0000, Time 0.40s, Speed 0.00 tok/s
+Epoch 9, Loss 0.0000, Time 0.40s, Speed 0.00 tok/s
+Epoch 10, Loss 0.0000, Time 0.40s, Speed 0.00 tok/s
+Epoch 11, Loss 0.0000, Time 0.53s, Speed 0.00 tok/s
+Epoch 12, Loss 0.0000, Time 0.53s, Speed 0.00 tok/s
+Epoch 13, Loss 0.0000, Time 0.53s, Speed 0.00 tok/s
+Epoch 14, Loss 0.0000, Time 0.53s, Speed 0.00 tok/s
+Epoch 15, Loss 0.0000, Time 0.53s, Speed 0.00 tok/s
+Epoch 16, Loss 0.0000, Time 0.66s, Speed 0.00 tok/s
+Epoch 17, Loss 0.0000, Time 0.66s, Speed 0.00 tok/s
+Epoch 18, Loss 0.0000, Time 0.66s, Speed 0.00 tok/s
+Epoch 19, Loss 0.0000, Time 0.66s, Speed 0.00 tok/s
+Epoch 20, Loss 0.0000, Time 0.66s, Speed 0.00 tok/s
+Epoch 21, Loss 0.0000, Time 0.79s, Speed 0.00 tok/s
+Epoch 22, Loss 0.0000, Time 0.79s, Speed 0.00 tok/s
+Epoch 23, Loss 0.0000, Time 0.79s, Speed 0.00 tok/s
+Epoch 24, Loss 0.0000, Time 0.79s, Speed 0.00 tok/s
+Epoch 25, Loss 0.0000, Time 0.79s, Speed 0.00 tok/s
+Epoch 26, Loss 0.0000, Time 0.92s, Speed 0.00 tok/s
+Epoch 27, Loss 0.0000, Time 0.92s, Speed 0.00 tok/s
+Epoch 28, Loss 0.0000, Time 0.92s, Speed 0.00 tok/s
+Epoch 29, Loss 0.0000, Time 0.92s, Speed 0.00 tok/s
+Epoch 30, Loss 0.0000, Time 0.92s, Speed 0.00 tok/s
+Epoch 1, Loss 0.0000, Time 0.15s, Speed 0.00 tok/s
+Epoch 2, Loss 0.0000, Time 0.18s, Speed 0.00 tok/s
+Epoch 3, Loss 0.0000, Time 0.18s, Speed 0.00 tok/s
+Epoch 4, Loss 0.0000, Time 0.18s, Speed 0.00 tok/s
+Epoch 5, Loss 0.0000, Time 0.19s, Speed 0.00 tok/s
+Epoch 6, Loss 0.0000, Time 0.40s, Speed 0.00 tok/s
+Epoch 7, Loss 0.0000, Time 0.40s, Speed 0.00 tok/s
+Epoch 8, Loss 0.0000, Time 0.40s, Speed 0.00 tok/s
+Epoch 9, Loss 0.0000, Time 0.40s, Speed 0.00 tok/s
+Epoch 10, Loss 0.0000, Time 0.41s, Speed 0.00 tok/s
+Epoch 11, Loss 0.0000, Time 0.54s, Speed 0.00 tok/s
+Epoch 12, Loss 0.0000, Time 0.54s, Speed 0.00 tok/s
+Epoch 13, Loss 0.0000, Time 0.54s, Speed 0.00 tok/s
+Epoch 14, Loss 0.0000, Time 0.54s, Speed 0.00 tok/s
+Epoch 15, Loss 0.0000, Time 0.54s, Speed 0.00 tok/s
+Epoch 16, Loss 0.0000, Time 0.67s, Speed 0.00 tok/s
+Epoch 17, Loss 0.0000, Time 0.67s, Speed 0.00 tok/s
+Epoch 18, Loss 0.0000, Time 0.67s, Speed 0.00 tok/s
+Epoch 19, Loss 0.0000, Time 0.68s, Speed 0.00 tok/s
+Epoch 20, Loss 0.0000, Time 0.68s, Speed 0.00 tok/s
+Epoch 21, Loss 0.0000, Time 0.81s, Speed 0.00 tok/s
+Epoch 22, Loss 0.0000, Time 0.81s, Speed 0.00 tok/s
+Epoch 23, Loss 0.0000, Time 0.81s, Speed 0.00 tok/s
+Epoch 24, Loss 0.0000, Time 0.81s, Speed 0.00 tok/s
+Epoch 25, Loss 0.0000, Time 0.82s, Speed 0.00 tok/s
+Epoch 26, Loss 0.0000, Time 0.95s, Speed 0.00 tok/s
+Epoch 27, Loss 0.0000, Time 0.95s, Speed 0.00 tok/s
+Epoch 28, Loss 0.0000, Time 0.95s, Speed 0.00 tok/s
+Epoch 29, Loss 0.0000, Time 0.95s, Speed 0.00 tok/s
+Epoch 30, Loss 0.0000, Time 0.95s, Speed 0.00 tok/s

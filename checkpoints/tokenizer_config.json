@@ -1,0 +1,1 @@
+{"vocab_size": 108, "special_tokens": {"<|pad|>": 0, "<|unk|>": 1, "<|start|>": 2, "<|end|>": 3, "<|neuro|>": 4, "<|quantum|>": 5, "<|memory|>": 6, "<|reason|>": 7, "<|url|>": 8, "<|num|>": 9, "<|email|>": 10, "<|phone|>": 11, "<|entity|>": 12}, "mode": "char"}
